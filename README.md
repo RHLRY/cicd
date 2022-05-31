@@ -1,2 +1,2 @@
 # cicd
-cicd pipeline for aws deployment.
+cicd pipeline for aws Deployment.
